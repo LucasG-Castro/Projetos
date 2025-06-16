@@ -1,1 +1,1 @@
-# Projetos
+💻 No curso de Informática, estou explorando o universo da tecnologia! Aprendemos de tudo um pouco: sistemas operacionais, lógica de programação, HTML/CSS, programação web, POO com Java, robótica, gestão de tempo e até manutenção e arquitetura de computadores. Cada matéria me aproxima mais do meu sonho de ser desenvolvedor!
