@@ -1,33 +1,16 @@
-# 💻 Sobre o Curso de Informática
+Olá, mundo! 👋 Sou Lucas Gabriel, estudante de Informática e mal posso esperar pra contar como esse curso está moldando minha jornada tech. 💻✨
 
-Olá! 👋  
-Meu nome é Lucas e atualmente estou mergulhado no mundo da **Informática** em um curso técnico de tempo integral. Se você acha que informática é só "consertar computador", deixa eu te mostrar que vai muito além disso! 🚀
+Aqui não é só código e hardware – é criatividade, lógica e mão na massa! Desde HTML/CSS (sim, já criei uns sites bem estilosos) até POO com Java (onde os objetos viram meus aliados), cada matéria é um puzzle novo pra resolver.
 
----
+E não para por aí: Robótica me fez enxergar a tecnologia além da tela, Sistemas Operacionais revelou os bastidores da máquina, e Gestão de Tempo (ufa!) me ensinou a não surtar com deadlines. 😅
 
-## 🧠 O que eu estou aprendendo?
+No final, saio não só com um diploma, mas com um kit completo: desenvolvedor, suporte, problem solver e, claro, um pouco mais geek. #PróximaParada:CarreiraTech! 🚀
 
-No curso de Informática, estou desenvolvendo habilidades que vão de **lógica de programação** até **desenvolvimento de sistemas web**. Aqui vão algumas das áreas que mais me empolgam:
+(E sim, ainda erro um "Hello World" às vezes… mas o importante é não bugar a mente!)
 
-- 🌐 **Desenvolvimento Web:** HTML, CSS, JavaScript... e muito mais!
-- 🖥️ **Manutenção e Suporte:** Como os computadores funcionam por dentro e como manter tudo rodando liso.
-- 🛠️ **Redes e Sistemas Operacionais:** Entendendo como a internet realmente funciona (spoiler: não é por mágica).
-- 📊 **Banco de Dados e Algoritmos:** Dando estrutura às informações e aprendendo a pensar como uma máquina.
+🔌 Conecte-se comigo:lucas.8360869@aluno.mg.gov.br
+                      https://github.com/LucasG-Castro
 
----
+(Feito com 💙, café e um teclado que já sofreu meus códigos.)
 
-## 💡 Por que escolhi esse curso?
-
-Sempre fui curioso com tecnologia. Queria entender como os sites funcionavam, como jogos eram criados e como a gente pode transformar ideias em código. O curso de Informática abriu minha mente para um mundo cheio de possibilidades, onde **aprender nunca para**.
-
----
-
-## 🔮 E o futuro?
-
-Quero continuar evoluindo como **desenvolvedor**, explorar o mundo do **Front-end** e, quem sabe, criar algo que ajude pessoas de verdade. Esse curso é só o começo — a jornada está só começando.
-
----
-
-> “A tecnologia move o mundo.” – Steve Jobs  
-> E eu estou aqui pra fazer parte desse movimento! ⚡
-
+🎯 PS: Curioso sobre o curso? Me chama no privado – ou melhor, bora pair programar! 👨‍💻👩‍💻
